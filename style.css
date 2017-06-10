@@ -82,6 +82,7 @@ section .sidebar li:hover{
 /* /sidebar */
 /* footer */
 footer {
+    width: 100%;
     clear: left;
     background-color: #3A14AD;
     padding: 15px 0;
